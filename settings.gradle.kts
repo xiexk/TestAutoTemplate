@@ -1,1 +1,1 @@
-rootProject.name = "TestAutoTemplate"
+rootProject.name = "IntelliJ Platform Plugin Template"
